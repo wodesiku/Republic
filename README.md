@@ -342,7 +342,7 @@ republicd query bank balances $(republicd keys show wallet -a --home $REPUBLIC_H
 
 ### 获取测试网代币
 
-加入 Discord 并从水龙头请求代币：https://discord.com/invite/therepublic
+从水龙头请求代币：https://points.republicai.io/faucet
 
 ### 创建验证者
 
